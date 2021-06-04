@@ -1,0 +1,6 @@
+cdhit_path: /Users/yk/work/git/16S-FAST-Tools-2021/venv/bin/cd-hit
+spades_py_path: /Users/yk/work/git/16S-FAST-Tools-2021/venv/bin/../lib/SPAdes-3.12.0-Darwin/bin/spades.py
+cutadapt_path: /Users/yk/work/git/16S-FAST-Tools-2021/venv/bin/cutadapt
+usearch_path: /Users/yk/work/git/16S-FAST-Tools-2021/venv/bin/usearch11
+file_primer_rc: /Users/yk/work/git/16S-FAST-Tools-2021/adapter_fa/Lrc_1-8.fa
+file_primer: /Users/yk/work/git/16S-FAST-Tools-2021/adapter_fa/L_1-8.fa

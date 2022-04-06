@@ -1,0 +1,14 @@
+cdhit_path:/Bioinfo/bin/cd-hit
+spades_py_path:/root/anaconda3/bin/spades.py
+cutadapt_path:/root/anaconda3/bin/cutadapt
+usearch_path:/Bioinfo/bin/usearch11
+file_primer_rc:/Bioinfo/16S-FAST-Tools-2021/adapter_fa/Lrc_1-8.fa
+file_primer:/Bioinfo/16S-FAST-Tools-2021/adapter_fa/L_1-8.fa
+file_adapter:/Bioinfo/16S-FAST-Tools-2021/adapter_fa/A.fa
+file_adapter_rc:/Bioinfo/16S-FAST-Tools-2021/adapter_fa/Arc.fa
+mothur_path:/Bioinfo/bin/mothur
+mothur_db_fa:/Bioinfo/Database/Silva_132_v3/mothur/silva_132_v3.fa
+mothur_db_tax:/Bioinfo/Database/Silva_132_v3/mothur/silva_132_v3.2.tax
+bowtie_path:/root/anaconda3/bin/bowtie2
+bowtie_db:/Bioinfo/Database/Silva_132_v3/mothur/silva_132_v3
+trimmomatic:/root/anaconda3/bin/trimmomatic
